@@ -6,4 +6,14 @@ There are two examples in this repository. The first is a simple scroll effect w
 
 ## Installation
 
+Choose one of the examples you wish to run and cd to that directory. For example, the 2_parallax directory
 
+```
+cd 2_parallax
+```
+
+The run the build command
+
+```
+go build .
+```
