@@ -62,7 +62,7 @@ func main() {
 		if scroll == true {
 			scroll = scrollBackground(renderer, bg)
 		} else {
-			time.Sleep(10  * time.Second)
+			time.Sleep(20  * time.Second)
 		}
 		renderer.Present()
 	}

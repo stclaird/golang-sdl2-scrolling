@@ -33,7 +33,7 @@ func (l *Layer) scroll() {
 func getLayers() (layers []Layer) {
 	//define background layers. TODO Probably need a way to open image layers from file or filesystem rather than hardcode
 	layers = append(layers, Layer{"gfx/0_sky_layer.png", 450, 800, 0, 0, 0, 0, nil})
-	layers = append(layers, Layer{"gfx/1_mountain_layer.png", 173, 1450, 200, 0, 0.002, 0, nil})
+	layers = append(layers, Layer{"gfx/1_mountain_layer.png", 173, 1116, 200, 0, 0.002, 0, nil})
 	layers = append(layers, Layer{"gfx/2_trees_layer.png", 453, 1450, 0, 0, 0.005, 0, nil})
 
 	return layers
