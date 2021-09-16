@@ -25,4 +25,4 @@ Run the command
 ```
 ./goScrollingParallax
 ```
-This should if all goes well create a system window and scroll a 3 image layer across the windows view port.
+This should if all goes well create a system window and scroll a 3 image layer across the window's view port.
