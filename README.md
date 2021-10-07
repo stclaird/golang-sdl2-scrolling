@@ -6,7 +6,7 @@ There are two examples in this repository. The first is a simple scroll effect w
 
 ## Installation
 
-Choose one of the examples you wish to run and cd to that directory. For example, the instructions will run the parallax example on Linux
+Choose one of the examples you wish to run and cd to that examples directory within the repo. For example, the instructions will run the parallax example on Linux
 
 ```
 cd 2_parallax
@@ -25,4 +25,4 @@ Run the command
 ```
 ./goScrollingParallax
 ```
-This should if all goes well create a system window and scroll a 3 image layer across the windows view port.
+This should if all goes well create a system window and scroll a 3 image layer across the window's view port.
